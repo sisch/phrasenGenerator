@@ -1,5 +1,5 @@
 # -*- encoding: utf8 -*-
-__author__ = 'Simon, André'
+__author__ = '@PlantProgrammer, @BreadOnToast'
 
 import random
 import json
