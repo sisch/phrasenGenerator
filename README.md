@@ -18,8 +18,9 @@ Regelmäßig neue Zitate zeigen unter Linux
 
 > watch python3 non-interactive.py
 
-![alt text](https://raw.githubusercontent.com/sisch/phrasenGenerator/master/example.png "Beispielphrasen")
-
 Server auf Port 8000 gibt ein Zitat als Antwort
 
-python3 server.py
+> python3 server.py
+
+![alt text](https://raw.githubusercontent.com/sisch/phrasenGenerator/master/example.png "Beispielphrasen")
+
