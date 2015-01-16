@@ -17,3 +17,5 @@ Einfach ein Zitat anzeigen
 Regelmäßig neue Zitate zeigen unter Linux
 
 > watch python3 non-interactive.py
+
+![alt text](https://github.com/sisch/phrasenGenerator/raw/master/src/common/example.png "Beispielphrasen")
